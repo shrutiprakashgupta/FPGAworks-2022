@@ -1,14 +1,14 @@
 # Description
 
-A specific combination of all 16 switches on the board will show the flag. You can try all possible combinations or just use your third eye.   
+Remember the rules in Temple Run? You can switch between the Left, Centre and Right sides of the path. Avoid the obstacles andcapture the stars to get points. Enough points will earn you the flag.</br>
+Just a small twist here, the FPGA board is fast, and you need to match its speed. But don't worry, a secret tool is provided to help you with it!
 # Hint
+(40 Points)
 
-Each valid signal corresponds to one switch on the board. Once you have arrived on the required combination of all 16 switches, press the centre push button to get the flag.
+TCL script is a great way to automate things in EDA (Electronic Design Automation) tools. The VIO core provided inside the RTL will help in setting up your direct control over the internal signals. And combining both of them, you can automate the process of updating internal signals, to match the board speed. </br>
 
-# Hint 
-Worth (20 points)
+Once you have this setup ready, write a simple logic to choose the best path in every case, increase your points and reach the flag.
 
-An Integrated Logic Analyzer core is already included in the RTL code. This allows you to read internal signals. Have a look on [this](https://www.youtube.com/watch?v=kTjeTOf6ACI) video at 20:00 for more information.
 # Points
 
-80
+200

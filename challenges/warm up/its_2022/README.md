@@ -1,6 +1,6 @@
 # Description
 
-The name says it all.
+Image
 # Hint
 
 None

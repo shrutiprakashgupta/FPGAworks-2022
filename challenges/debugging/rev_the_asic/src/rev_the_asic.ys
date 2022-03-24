@@ -1,9 +1,9 @@
 # Synthesis script for yosys created by qflow
 read_liberty -lib -ignore_miss_dir -setattr blackbox /usr/local/share/qflow/tech/osu035/osu035_stdcells.lib
-read_verilog  /home/work/extra/hack_the_pcb.v
+read_verilog  /home/work/extra/rev_the_asic.v
 
 # High-level synthesis
-synth -top hack_the_pcb 
+synth -top rev_the_asic 
 opt
 
 # Map combinatorial cells, standard script
@@ -13,7 +13,7 @@ setundef -zero
 
 clean -purge
 rename -enumerate
-write_json hack_the_pcb.json
-write_blif hack_the_pcb.blif
-write_verilog hack_the_pcb_synthesized.v
+write_json rev_the_asic.json
+write_blif rev_the_asic.blif
+write_verilog rev_the_asic_synthesized.v
 stat

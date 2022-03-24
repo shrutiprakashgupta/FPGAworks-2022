@@ -1520,10 +1520,10 @@
         }
       }
     },
-    "hack_the_pcb": {
+    "rev_the_asic": {
       "attributes": {
         "top": 1,
-        "src": "/home/work/extra/hack_the_pcb.v:1"
+        "src": "/home/work/extra/rev_the_asic.v:1"
       },
       "ports": {
         "key": {
@@ -2618,14 +2618,14 @@
           "hide_name": 0,
           "bits": [ 2, 3, 4, 5, 6, 7, 8, 9 ],
           "attributes": {
-            "src": "/home/work/extra/hack_the_pcb.v:2"
+            "src": "/home/work/extra/rev_the_asic.v:2"
           }
         },
         "unlock": {
           "hide_name": 0,
           "bits": [ 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 13, 20, 21, 13, 22, 23, 24, 25, 26 ],
           "attributes": {
-            "src": "/home/work/extra/hack_the_pcb.v:3"
+            "src": "/home/work/extra/rev_the_asic.v:3"
           }
         }
       }

@@ -1,4 +1,4 @@
-module hack_the_pcb(key, unlock);
+module rev_the_asic(key, unlock);
     input [7:0] key;
     output [18:0] unlock;
 
