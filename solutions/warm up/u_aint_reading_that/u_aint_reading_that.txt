@@ -1,0 +1,2 @@
+Download and install Putty.
+Communicate with the board, press f to get the key.

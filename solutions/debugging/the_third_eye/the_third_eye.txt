@@ -1,0 +1,3 @@
+Search about the .ltx file and understand about the ILA.
+Flash the board with the given bit file and understand the debugger structure. 
+Find the proper combination of switches to get the flag at the output.

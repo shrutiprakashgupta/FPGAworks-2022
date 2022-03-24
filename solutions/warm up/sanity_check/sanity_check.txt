@@ -1,0 +1,1 @@
+Program the board, the leds will show the flag. Put 1 corresponding to an On LED and 0 corresponding to Off. 

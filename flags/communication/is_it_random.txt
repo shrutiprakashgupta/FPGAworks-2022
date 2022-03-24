@@ -1,0 +1,2 @@
+FPGAworks{LFSR[11,8,5,2]}
+FPGAworks{LFSR[10010010010]}

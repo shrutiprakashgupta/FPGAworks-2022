@@ -1,0 +1,18 @@
+# Description
+While creating this problem, we came up with flag_city_old.v. But, with this code there were two possible inputs to reach the flag. We didn't want any confusion and thus made an evident change in the RTL to get flag_city.v, which has a unique solution. </br>
+
+However, while doing this we realized that our newer code is an example of **Simulation-Synthesis** mismatch. This is a flawed condition when the RTL generates a different behaviour than designer's original intent. So we made a little change in the problem.</br>
+
+We are providing the bit file for flag_city.v code, which will give you the invalid_flag. We need you to spot the difference between the these two codes and figure out the two valid inputs for flag_city_old.v. You will then use these to validate your flag in following manner: </br>
+
+**invalid_flag** : revceived from board </br>
+**input1**       : valid input for both flag_city_old.v and flag_city.v </br>
+**input2**       : valid input for flag_city_old.v only </br>
+**valid_flag** = (input1 & input2) ^ invalid_flag.
+
+# Hint
+
+None
+# Points
+
+40

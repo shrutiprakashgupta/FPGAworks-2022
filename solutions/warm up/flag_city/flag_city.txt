@@ -1,0 +1,5 @@
+Read the FSM and decide what needs to be done.
+In flag_city.v, find the corresponding for the required sequence of events.
+Identify the difference with flag_city_old.v. Use the idle case there. 
+Read the XDC file to understand how to give the input. 
+Calculate the final flag and submit.
