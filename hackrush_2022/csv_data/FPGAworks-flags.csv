@@ -1,0 +1,12 @@
+id,challenge_id,type,content,data
+1,1,static,FPGAworks{1010111000100000},
+2,2,static,FPGAworks{36819172},
+3,3,static,FPGAworks{7he_us6_uart_f10g},
+4,4,static,FPGAworks{0000001101010010},
+5,5,static,"FPGAworks{LFSR[11,8,5,2]}",
+6,6,static,FPGAworks{t4e_am6a_apb_f1ag},
+7,7,static,FPGAworks{S4t_s01veR_i5_Gr9a7},
+8,8,static,FPGAworks{Py5er1al_is_aw9s0Me},
+9,9,static,FPGAworks{1011010101101011},
+10,10,static,FPGAworks{1001011100011001},
+11,11,static,FPGAworks{0110000101001101},

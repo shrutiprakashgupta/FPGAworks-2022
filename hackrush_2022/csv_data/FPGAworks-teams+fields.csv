@@ -1,0 +1,12 @@
+id,oauth_id,name,email,password,secret,website,affiliation,country,bracket,hidden,banned,captain_id,created
+1,,iloveyou,,"$bcrypt-sha256$2b,12$tFGf.aMHzK4Ytzh3zPgPAO$X9x3kmfFh5EIP8ZsPIYTyH0QW/zJD7e",,,,,,False,False,2,2022-03-25 16:07:39.711168
+2,,veert,,"$bcrypt-sha256$2b,12$DkrxyEgrMRRTyoIs8f.B.u$aiDJIPt8tMRPAE1g26TJJyxgVdXLBoe",,,,IN,,False,False,4,2022-03-25 16:08:30.697165
+3,,0ne,,"$bcrypt-sha256$2b,12$hqHScnFUhpXegPKBdpkgSu$GqLVerI6IigVLLBZophJy0CtDKEgJWK",,,,,,False,False,7,2022-03-25 16:13:50.018591
+4,,agpf,,"$bcrypt-sha256$2b,12$Ke2DQtaWOScH./NoPjoguO$hSc/TnT2hAVCUTyR9dWxVoURpur04je",,,,,,False,False,10,2022-03-25 16:14:59.156899
+5,,Team Four,,"$bcrypt-sha256$2b,12$qmoBwxuE/UJxusuEBgmLC.$Cqe4SG1AU9QY0y4..CkqjSJMBetun/.",,,,,,False,False,11,2022-03-25 16:15:55.243215
+6,,The FPGA Files,,"$bcrypt-sha256$2b,12$kuW9JFCqjUSAuJHsO9Hi.e$NZaqJBWHfGd7Bymxlp.9ALo0cz4cRDO",,,,RU,,False,False,3,2022-03-25 16:19:10.934691
+7,,weAreGoingToLose,,"$bcrypt-sha256$2b,12$QKErQot0vqhqwUw7MPfCfe$DVzOiWztjj3aCiZyjFhGIsgpo4MmDhK",,,,,,False,False,13,2022-03-25 16:21:36.538213
+8,,sda,,"$bcrypt-sha256$2b,12$j/NxVaCMKPCKDosXEKl6te$qIlzpIhzx.nGdfdjd7GFLaN7C6sYGS2",,,,,,False,False,15,2022-03-25 16:22:54.015143
+9,,embeDeadInside,,"$bcrypt-sha256$2b,12$OctEJf8/fFsBJUG/Nd2gS.$qkitVbgK5DYG1zP/jLzL1Y4xMGBOanC",,,,,,False,False,21,2022-03-25 16:40:01.810207
+10,,admin,,"$bcrypt-sha256$2b,12$5QQLjapoDKdGD2bVZgOK1.$mt48Xa3VTceXuJ26xYIxoK5hBssy9T2",,,,,,True,False,1,2022-03-25 19:24:45.699244
+11,,Verylog,,"$bcrypt-sha256$2b,12$mGUNBh3Tgvjro1ar6psUru$QO3KhHuYRCjf0uez.VYyOQ4MVlpIIvi",,,,,,False,False,27,2022-03-25 21:15:23.739622
