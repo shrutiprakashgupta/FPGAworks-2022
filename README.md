@@ -13,5 +13,5 @@ The challenges are based on Xilinx Artix-7 Basys 3 FPGA board. The Vivado Lab Ed
 The solutions to all of the problems are included in the `solutions` directory. These are mainly the scripts and a note on the steps to be taken in other cases (for ex. working with the FPGA board). The `misc` directory includes a zipped version of the CTFd instance used for this event. It can be imported into another CTFd instance if anyone is interested in setting up this CTF challenge.
 
 ## CTF in a Glance
-![FPGAworks1](https://github.com/shrutiprakashgupta/FPGAworks-2022/blob/master/misc/docs/Screenshot from 2022-03-27 22-39-08.png)
-![FPGAworks2](https://github.com/shrutiprakashgupta/FPGAworks-2022/blob/master/misc/docs/Screenshot from 2022-03-27 22-38-50.png)
+![FPGAworks1](https://github.com/shrutiprakashgupta/FPGAworks-2022/blob/master/misc/docs/Screenshot%20from%202022-03-27%2022-39-08.png)
+![FPGAworks2](https://github.com/shrutiprakashgupta/FPGAworks-2022/blob/master/misc/docs/Screenshot%20from%202022-03-27%2022-38-50.png)
